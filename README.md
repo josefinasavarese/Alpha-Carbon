@@ -1,2 +1,2 @@
 # Alpha-Carbon
-Readses thhe PDB and shows the alpha carbon
+Reads the PDB and shows the alpha carbon
